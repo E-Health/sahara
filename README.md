@@ -1,4 +1,4 @@
-# :open_hands: Sahara: Examiner assisted tests/data collection based on :fire: FHIR
+# :open_hands: Sahara: Examiner assisted tests/data collection based on FHIR
 
 ### Work in progress.
 
