@@ -6,6 +6,8 @@
 
 :open_hands: Sahara is work in progress and is not ready for use. Read more about  [:fire: The FHIRForm framework ](https://github.com/E-Health/fhirform) here. 
 
+[![Sahara](https://raw.github.com/E-Health/fhirform/develop/notes/sahara.png)](http://canehealth.com)
+
 ## Contributors
 * [Bell Eapen](https://nuchange.ca) (McMaster U) |  [Contact](https://nuchange.ca/contact)
 * See also: [:eyes: Drishti | An mHealth sense-plan-act framework!](https://github.com/E-Health/drishti)
